@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="@color/black"
+      android:text="Java AWT (Abstract Windowing Toolkit) is a API to develope GUI or windows-based application in Java. Java AWT componnents are platform-dependent i.e components are displayed according to the View of operationg System. AWT is heavy weight as its components uses the resources of system" />
+
+</FrameLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_profile"
+        android:icon="@drawable/ic_outline_account_circle_24"
+        android:title="profile"/>
+
+    <item android:id="@+id/menu_Order"
+        android:icon="@drawable/my_order"
+        android:title="Your Order "/>
+
+    <item android:id="@+id/menu_List"
+        android:icon="@drawable/ic_baseline_list_24"
+        android:title="Order List"/>
+
+    <item android:id="@+id/menu_Shop_Owner"
+        android:icon="@drawable/shop"
+        android:title="Shop Owner"/>
+
+    <item android:id="@+id/menu_Share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="Share"/>
+
+    <item android:id="@+id/menu_rate"
+        android:icon="@drawable/ic_baseline_star_rate_24"
+        android:title="Rate us"/>
+
+    <item android:id="@+id/menu_feed"
+        android:icon="@drawable/ic_baseline_feedback_24"
+        android:title="Feedback"/>
+
+    <item android:id="@+id/menu_setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Setting"/>
+
+</menu>

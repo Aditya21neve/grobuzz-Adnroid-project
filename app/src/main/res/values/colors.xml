@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#239adc</color>
+    <color name="colorPrimaryDark">#239adc</color>
+    <color name="ColorAccent">#ffffff</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="submitgreen">#53d22d</color>
+    <color name="actionbarbule">#239adc</color>
+    <color name="actionbarbule1">#54c3ff</color>
+    <color name="submitwhite">#FFFFFF</color>
+    <color name="yellow">#FF9933</color>
+    <color name="white">#FFFFFF</color>
+    <color name="indian_green">#138808</color>
+    <color name="Link">#0000EE</color>
+    <color name="delete">#FF0000</color>
+    <color name="logo">#fc031a</color>
+    <color name="Red">#ce0000</color>
+    <color name="BtnRed">#9f0000</color>
+    <color name="Green">#11A10C</color>
+
+
+    <color name="RecyclerviewBackground">#d6d6d6</color>
+
+
+
+
+
+
+
+
+</resources>
